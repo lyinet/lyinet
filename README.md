@@ -1,9 +1,3 @@
-# lyinet
-
-做一点自己会用的工具，也每天在公众号写和 AI 有关的内容。
-
-I build small tools I actually use, and write about AI most days.
-
 ## 项目
 
 **[lumen](https://github.com/lyinet/lumen)**  
@@ -21,7 +15,3 @@ I build small tools I actually use, and write about AI most days.
 
 **[Prompt](https://github.com/lyinet/Prompt)**  
 一个收集和管理 AI 提示词的网站，支持文字、图片和视频类提示词。
-
-## 联系
-
-[X @lyinet](https://x.com/lyinet)

@@ -25,7 +25,3 @@ I build small tools I actually use, and write about AI most days.
 ## 联系
 
 [X @lyinet](https://x.com/lyinet)
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=lyinet&show_icons=true&theme=transparent&hide_title=true" alt="lyinet GitHub stats" />
-</p>

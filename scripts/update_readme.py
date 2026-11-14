@@ -173,7 +173,8 @@ def replace_section(text: str, name: str, body: str) -> str:
 
 def main() -> None:
     text = README.read_text(encoding="utf-8")
-    text = replace_section(text, "writing", render_writing(load_posts(WRITING)))
+    if "<!-- writing starts -->" in text:
+        text = replace_section(text, "writing", render_writing(load_posts(WRITING)))
     text = replace_section(text, "commits", render_commits(recent_commits()))
     README.write_text(text if text.endswith("\n") else text + "\n", encoding="utf-8")
 

@@ -1,9 +1,9 @@
 ### 最近提交
 
 <!-- commits starts -->
-- [lumora](https://github.com/lyinet/lumora)：Merge pull request #5 from lyinet/v0.5.1（2026-11-17）
-- [lumora](https://github.com/lyinet/lumora)：release: v0.5.1（2026-11-17）
-- [worklog](https://github.com/lyinet/worklog)：重写 README 作为开源门面，补应用截图与 MIT 许可证（2026-11-16）
-- [worklog](https://github.com/lyinet/worklog)：v1.2.0 通知栏快捷记录进 README，补 release 包实测记录（2026-11-16）
-- [audio-effects](https://github.com/lyinet/audio-effects)：add Qwen and Gemini TTS providers (v0.5.0)（2026-10-14）
+- [lumora](https://github.com/lyinet/lumora)：Merge pull request #9 from lyinet/v0.6.3（2026-11-19）
+- [lumora](https://github.com/lyinet/lumora)：release: v0.6.3（2026-11-18）
+- [lumen-finder](https://github.com/lyinet/lumen-finder)：cask: lumen-finder 0.8.1 [skip ci]（2026-11-18）
+- [lumen-finder](https://github.com/lyinet/lumen-finder)：v0.8.1: Full Disk Access guide that lists Lumen, launch without blocking inte…（2026-11-18）
+- [worklog](https://github.com/lyinet/worklog)：v1.3.0（通知内回复 + 周报导出），README 与文档同步（2026-11-18）
 <!-- commits ends -->
